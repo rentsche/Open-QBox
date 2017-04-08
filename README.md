@@ -1,0 +1,1 @@
+# Open-QBoxOpen QBox is intended to be a DIY drop-in solution for Nazarene Bible quizzing teams that wish to upgrade old quizzing equipment to be computer based. Open QBox is a USB compatible interface box that allows a user to connect up to three 5-pad strings of quiz seats to a PC. This project encompasses the Open QBox hardware, firmware and PC-side client software.
